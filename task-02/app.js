@@ -26,7 +26,7 @@ const Sidebar = () => {
                 <li><a href="#" className="sidebar-link">Thriller</a></li>
                 <li><a href="#" className="sidebar-link">Comedy</a></li>
                 <li><a href="#" className="sidebar-link">Melodrama</a></li>
-                <li><a href="#" className="sidebar-link">drama</a></li>
+                <li><a href="#" className="sidebar-link">Drama</a></li>
                 <li><a href="#" className="sidebar-link">Horror</a></li>
             </ul>
         </aside>

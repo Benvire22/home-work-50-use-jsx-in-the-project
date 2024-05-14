@@ -58,7 +58,7 @@ body {
 }
 
 .sidebar {
-    border: 1px solid #857fd4;
+    border: 1px solid #99aee4;
     border-radius: 12px;
     overflow: hidden;
     padding-bottom: 15px;
@@ -70,7 +70,7 @@ body {
     font-size: 24px;
     margin: 0;
     padding: 14px 20px;
-    border-bottom: 1px solid #857fd4;
+    border-bottom: 1px solid #99aee4;
     background: #99aee4;
 }
 
@@ -82,7 +82,7 @@ body {
 }
 
 .sidebar-list li {
-    border-bottom: 1px solid #857fd4;
+    border-bottom: 1px solid #99aee4;
 }
 
 .sidebar-link {
@@ -113,7 +113,7 @@ body {
 
 .main-content .film-post {
     flex-basis: 70%;
-    padding: 15px;
+    padding: 0 15px;
 }
 
 .main-title,
